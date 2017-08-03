@@ -1,0 +1,29 @@
+{
+  "name": "modelmachine",
+  "version": "1.0.0",
+  "description": "Model machine allows you to create simulated computers and CPU instruction sets to learn the fundamentals of machine and assembly language programming.",
+  "main": "module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GodsBreath/modelmachine.git"
+  },
+  "keywords": [
+    "assembly",
+    "language",
+    "programming",
+    "simulation",
+    "education",
+    "computer",
+    "CPU",
+    "machine"
+  ],
+  "author": "Daniel Arant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GodsBreath/modelmachine/issues"
+  },
+  "homepage": "https://github.com/GodsBreath/modelmachine#readme"
+}
