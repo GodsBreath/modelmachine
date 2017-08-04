@@ -1,12 +1,13 @@
 {
   "compilerOptions": {
     "declaration": true,
-    "module": "commonjs",
+    "module": "CommonJS",
     "moduleResolution": "node",
     "lib": [
-      "esnext"
+      "esnext",
+      "WebWorker"
     ],
-    "target": "es2015",
+    "target": "ES6",
     "noImplicitAny": true,
     "outDir": "./lib",
     "preserveConstEnums": true,
