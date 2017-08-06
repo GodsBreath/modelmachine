@@ -1,3 +1,5 @@
-import Motherboard from './motherboard';
+import { ICPU, CPU } from './CPU';
 
-var mb = new Motherboard();
+export default class Plus6510 implements ICPU {
+
+}
